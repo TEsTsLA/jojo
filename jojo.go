@@ -10,7 +10,7 @@ func New() {
 	println("New JoJo")
 }
 
-// New ..
+// New2 ..
 func New2() {
 	println("New JoJo")
 }
