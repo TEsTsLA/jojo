@@ -15,6 +15,11 @@ func New2() {
 	println("New JoJo")
 }
 
+// New3 ..
+func New3() {
+	println("New JoJo")
+}
+
 // TestJoJo ..
 func TestJoJo() {
 	println("Test JoJo")
