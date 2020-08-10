@@ -9,3 +9,8 @@ type JoJo struct {
 func New() {
 	println("New JoJo")
 }
+
+// TestJoJo ..
+func TestJoJo() {
+	println("Test JoJo")
+}
