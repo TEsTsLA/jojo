@@ -4,3 +4,8 @@ package jojo
 type JoJo struct {
 	Debug bool
 }
+
+// New ..
+func New() {
+	println("New JoJo")
+}
