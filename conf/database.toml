@@ -1,0 +1,3 @@
+[admin]
+uri = "E:\\Go\\database\\sqlite3"
+type = "sqlite3"

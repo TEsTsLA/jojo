@@ -1,0 +1,5 @@
+package generated
+
+func ModelCreate() {
+	
+}
