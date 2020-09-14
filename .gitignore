@@ -17,5 +17,6 @@
 # sqlite3 db data
 *.db
 
+# node.js modules floder
 node_modules
 build

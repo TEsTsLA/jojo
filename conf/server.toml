@@ -1,14 +1,15 @@
 [admin]
-port = 1432
+port = "1432"
+database = "admin"
 # 微信 以下appid,appsecret为测试号，使用时请替换为你自己信息
-[admin.wechat]
-appurl = "127.0.0.1:8888"
-appid = "your appId"
-appsecret = "your appSecret"
-token = "go_jwt"
-encodingaeskey = "your encodingaeskey"
+#[admin.wechat]
+#appurl = "127.0.0.1:8888"
+#appid = "your appId"
+#appsecret = "your appSecret"
+#token = "go_jwt"
+#encodingaeskey = "your encodingaeskey"
 #jwt
-[admin.jwt]
-secrets = "9C27D0C7C04BDA8A1F1B099CF4F9B1956AF5164F"
-token_expire = 1
-token_name = "Authorization"
+#[admin.jwt]
+#secrets = "secret"
+#token_expire = 1
+#token_name = "Authorization"

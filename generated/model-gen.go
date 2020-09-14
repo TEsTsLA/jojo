@@ -1,4 +1,4 @@
-package generated
+package main
 
 func ModelCreate() {
 	
