@@ -1,0 +1,21 @@
+{
+  "name": "jojo",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testsla/jojo.git"
+  },
+  "author": "testsla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/testsla/jojo/issues"
+  },
+  "homepage": "https://github.com/testsla/jojo#readme",
+  "dependencies": {
+    "rollup": "^2.26.0"
+  }
+}
